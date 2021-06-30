@@ -1,0 +1,10 @@
+<?php
+$router->get('/data','ChartdataController@test');
+$router->get('/service','ServicesController@test');
+$router->get('/client','ClientreviewController@test');
+$router->get('/contact','ContacttableController@test');
+$router->get('/course','CooursetableConntroler@test');
+$router->get('/footer','FootertableController@test');
+$router->get('/home','HomeetcController@test');
+$router->get('/information','InformationetcController@test');
+$router->get('/project','ProjecttableController@test');
